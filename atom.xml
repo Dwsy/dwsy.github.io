@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dwsy.github.io</id>
     <title>one</title>
-    <updated>2021-02-18T11:18:21.371Z</updated>
+    <updated>2021-02-18T11:23:44.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dwsy.github.io"/>
     <link rel="self" href="https://dwsy.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, one</rights>
     <entry>
         <title type="html"><![CDATA[盘点一下我电脑上的 Electron应用]]></title>
-        <id>https://dwsy.github.io/post/pan-dian-yi-xia-wo-dian-nao-shang-de-electron-ying-yong/</id>
-        <link href="https://dwsy.github.io/post/pan-dian-yi-xia-wo-dian-nao-shang-de-electron-ying-yong/">
+        <id>https://dwsy.github.io/pan-dian-yi-xia-wo-dian-nao-shang-de-electron-ying-yong/</id>
+        <link href="https://dwsy.github.io/pan-dian-yi-xia-wo-dian-nao-shang-de-electron-ying-yong/">
         </link>
         <updated>2021-02-18T10:58:13.000Z</updated>
         <content type="html"><![CDATA[<p>1.Vscode（这个就不用说了）</p>
@@ -61,8 +61,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://dwsy.github.io/post/hello-gridea/</id>
-        <link href="https://dwsy.github.io/post/hello-gridea/">
+        <id>https://dwsy.github.io/hello-gridea/</id>
+        <link href="https://dwsy.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
